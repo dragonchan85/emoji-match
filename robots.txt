@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Allow: /
 
-Sitemap: https://dragonchan85.github.io/emoji-match/sitemap.xml
+Sitemap: https://emoji-match.yesnomark.com/sitemap.xml
